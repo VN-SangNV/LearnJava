@@ -11,16 +11,16 @@ import java.util.Scanner;
 
 public class Lab1_B2 {
     public static void main(String[] args) {
-        int a, b;
+        int canhA, canhB;
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Nhập cạnh a: ");
-        a = scanner.nextInt();
+        canhA = scanner.nextInt();
         System.out.println("Nhập cạnh b: ");
-        b = scanner.nextInt();
+        canhB = scanner.nextInt();
 
-        System.out.println("Chu vi hình chữ nhật là: " + (a + b)*2 );
-        System.out.println("Diện tích hình chữ nhật là: " + a*b );
-        System.out.println("Cạnh nhỏ là: " + Math.min(a, b) );
+        System.out.println("Chu vi hình chữ nhật là: " + (canhA + canhB)*2 );
+        System.out.println("Diện tích hình chữ nhật là: " + canhA*canhB );
+        System.out.println("Cạnh nhỏ là: " + Math.min(canhA, canhB) );
     }
 }

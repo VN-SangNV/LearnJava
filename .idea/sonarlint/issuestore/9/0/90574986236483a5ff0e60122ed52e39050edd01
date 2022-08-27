@@ -1,0 +1,10 @@
+
+^
+java:S4973"<Strings and Boxed types should be compared using "equals()".(†Á¸ÿÿÿÿÿ8şèÿŒ«0
+V	java:S125"<This block of commented-out lines of code should be removed.(‘ÍÓ¢üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¾»‹èùÿÿÿÿ
+<
+java:S2129"!Remove this "Integer" constructor(ü·¼³ùÿÿÿÿ
+C
+java:S2129"!Remove this "Integer" constructor(‰˜¨²üÿÿÿÿ8ÙˆÿŒ«0
+S	java:S106"9Replace this use of System.out or System.err by a logger.(†Á¸ÿÿÿÿÿ
